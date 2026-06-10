@@ -91,6 +91,12 @@ ICs used-
 - 3 × SY8088 buck converters
 - 1 × XC6206 LDO
 
+## how to replicate
+- Download the Handheldconsolelinux.epro2  and import it in easyeda pro (pro is free :D!!) 
+- in the top you should see a export drop-down
+- in there you can see export parts/bom to lcsc (now you can directly order all parts with adding them to your cart with a single click!)
+- there would also be order from jlcpcb, which if you click you are directly sent to the order page with the correct design rules/gerbers uploaded
+
 # changelog over time (DD-MM-YYYY)
 
 ## 06-05-2026
