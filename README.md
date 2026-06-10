@@ -2,6 +2,8 @@
 
 A custom-built 4-layer PCB handheld game console based on the Allwinner F1C200s SoC.
 
+(images at the end of readme :D)
+
 ## goal
 
 The goal of this project is to build a small, low-cost, Linux-capable handheld that can run lightweight emulators and homebrew games using a fully custom PCB, display interface, controls, audio, storage, and power system.
@@ -181,3 +183,14 @@ This is a work-in-progress DIY hardware project.
 The board has not been fully validated yet, and some design decisions may change after testing.
 
 Use the design as a learning reference, not as a guaranteed production-ready circuit.
+
+
+<img width="1333" height="691" alt="image" src="https://github.com/user-attachments/assets/59e3c1f1-66d3-4a8c-810a-4445f76c5fb7" />
+<img width="1316" height="698" alt="image" src="https://github.com/user-attachments/assets/01b2f2e0-cc64-462c-8f93-45c1c6d5f803" />
+<img width="1298" height="670" alt="image" src="https://github.com/user-attachments/assets/1b196b3b-64d4-40f0-a453-ba19c87b8a79" />
+<img width="1299" height="659" alt="image" src="https://github.com/user-attachments/assets/52f8beb8-26a3-4938-b541-d91af8fa2414" />
+
+<img width="1009" height="583" alt="image" src="https://github.com/user-attachments/assets/bb971a86-5049-4b7b-8152-ed8804f9b7ba" />
+<img width="914" height="539" alt="image" src="https://github.com/user-attachments/assets/cc9e210a-58eb-4e11-9c0c-be9cb0d55673" />
+<img width="1240" height="652" alt="image" src="https://github.com/user-attachments/assets/16b263b9-ce0e-4dbf-9a40-8f62ca1db01c" />
+<img width="1218" height="324" alt="image" src="https://github.com/user-attachments/assets/c5c5ca5c-0d50-4a71-a44a-9fda7afa5bba" />
