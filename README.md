@@ -107,6 +107,8 @@ ICs used-
 
 ## 15-05-2026
 
+Design notes for later fixes and to be kept in mind for routing-
+
 - Integrated download circuitry eliminates the need for a TTL downloader when viewing serial port data; a standard A-to-C cable is sufficient.
 Using the CH340N solution, which has a built-in crystal oscillator, requires few external components, and is small in size, it is simply too good to be true.
 
