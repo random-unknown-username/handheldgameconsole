@@ -91,7 +91,7 @@ ICs used-
 - 3 × SY8088 buck converters
 - 1 × XC6206 LDO
 
-# changelog over time
+# changelog over time (DD-MM-YYYY)
 
 ## 06-05-2026
 
