@@ -166,7 +166,7 @@ Routing finally complete
 
 - Gerber generated, exported, BOM device standardization complete, ready to order
 
-- shipped to hackclub's macondo program
+- shipped to hackclub's macondo program and is under review right now
 
 
 # Disclaimer
