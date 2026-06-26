@@ -2,7 +2,7 @@
 
 A custom-built 4-layer PCB handheld game console based on the Allwinner F1C200s SoC.
 
-EASYEDA LINK- https://u.easyeda.com/join?type=project&key=87b214f9185709936c2fe09caaf100b1&inviter=dee68e495a4d45998290d706d889dba7
+EASYEDA LINK-  https://oshwlab.com/satvikpockitce/project_wvjbfxpj
 
 <img width="914" height="539" alt="image" src="https://github.com/user-attachments/assets/cc9e210a-58eb-4e11-9c0c-be9cb0d55673" />
 
